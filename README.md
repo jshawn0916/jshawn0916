@@ -1,16 +1,28 @@
 ### Hi there 👋
+# 🙋🏻‍♀️Suyeon(Skylor) Jang
+- Hello! I'm Skylor
+I'm a Front-end Developer.
+Studying in Humber College
+- **#HTML** **#CSS** **#JS** #Vue.js #Less #Node.js #Laravel #Express #tailwind.css
+  
+![my_img](./_readme/my_img.jpeg)
+## Projects
+|Name|URL|Technology|
+|:---|:---|:---|
+|**AVOCART**|https://avocart.kr/|#PHP #Vue.js #Laravel|
+|**Hella Company**|https://www.hellacompany.co.kr/|#Node.js #express #Less|
+<!-- |테스트1|<span style="color:red">강조3</span>|테스트3| -->
 
-<!--
-**jshawn0916/jshawn0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Site
+- Portfolio(2022 ver.) : https://jshawn0916.github.io/portfolio/index.html
+## Education
+- Pukyoung University(2015-2020) : Business Management & Marine police
+- Humber College(2023-2024) : Web Development
+## Work Experience
+- otheon(Busan, Korea) (2020.Dec - 2021.Nov)
+    Web publisher
+- chatis(Busan, Korea) (2022.Mar - 2022.Dec)
+    Front-end Developer
+## Contact
+- LinkedIn : https://www.linkedin.com/in/suyeon-jang-95196026a/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
