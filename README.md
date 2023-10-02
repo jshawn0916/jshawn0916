@@ -4,8 +4,7 @@
 I'm a Front-end Developer.
 Studying in Humber College
 - **#HTML** **#CSS** **#JS** #Vue.js #Less #Node.js #Laravel #Express #tailwind.css
-  
-![my_img](./_readme/my_img.jpeg)
+- 
 ## Projects
 |Name|URL|Technology|
 |:---|:---|:---|
